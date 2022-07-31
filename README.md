@@ -1,9 +1,10 @@
-## Olá, me chamo Natan Gomes (Programador e Consultor de TI)
-- Atualmente trabalho na EY (Ernest & Young)
-- Trabalho com Desenvolvimento , CyberSecurity e Technology Risk
-- Cursando Ciência de Dados na Faculdade Estácio de Sá (3° período)
+<h1 align="center">
+<img src"https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="28">
+Olá I'm Natan Gomes <img src="https://media.giphy.com/media/qfBrXyuWoNXIQ/giphy.gif" width="50">
+</h1>
 ##
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natadata&layout=compact&langs_count=7&theme=dracula"/>
   <a href="https://github.com/natandata">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natandata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natadata&layout=compact&langs_count=7&theme=dracula"/>
