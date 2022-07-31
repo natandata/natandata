@@ -1,13 +1,13 @@
 <h1 align="center">
-<img src"https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="28">
-Olá I'm Natan Gomes <img src="https://media.giphy.com/media/qfBrXyuWoNXIQ/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
+Hello I'm Natan Gomes 
+<img src="https://media.giphy.com/media/dAzvwDXsf3M6x8IPow/giphy.gif" width="90">
 </h1>
+
 ##
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natadata&layout=compact&langs_count=7&theme=dracula"/>
-  <a href="https://github.com/natandata">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natandata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natadata&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natandata&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
