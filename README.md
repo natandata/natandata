@@ -17,7 +17,7 @@ Hello I'm Natan Gomes (EY Employee)
 <h1
 align="center">
 
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=natandata&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=natandata&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
 <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natandata&langs_count=8)](https://github.com/anuraghazra/github-readme-stats"/>
 
